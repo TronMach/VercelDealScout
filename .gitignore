@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+
+*.txt
+!requirements*.txt
+
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+client/dist/
+.vercel/
+*.db
+.pytest_cache/

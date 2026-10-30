@@ -1,0 +1,12 @@
+fastapi==0.162.0
+uvicorn==0.54.0
+httpx==0.28.1
+beautifulsoup4==4.15.0
+pydantic==2.14.2
+python-dotenv==1.2.4
+SQLAlchemy[asyncio]==2.1.6
+aiosqlite==0.22.1
+asyncpg==0.32.0
+cryptography==50.0.2
+itsdangerous==2.2.0
+PyNaCl==1.6.2
